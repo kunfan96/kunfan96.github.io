@@ -58,11 +58,11 @@ menu:
 
 # 页脚
 footer:
-  since: 
-  powered: true
-  theme: true
+  since: 1996
+  powered: 
+  theme: 
   beian:
-    enable: true
+    enable: false
     icp: 
   icon:
     # 图标名使用的是Font Awesome 5.11.2, 详见: https://fontawesome.com/
